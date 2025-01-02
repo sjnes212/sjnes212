@@ -1,12 +1,14 @@
 Hello World! 👋 I'm Jenish Silwal
 
-🐍 Python Learner | Aspiring Developer
+ 💻 Frontend Developer | Python Learner | Aspiring AI/ML Developer
 
 🌱 My Coding Journey 
-I'm a passionate beginner in the world of programming, currently learning Python and exploring the exciting realm of software development.Every line of code is a step towards my dream of becoming a skilled developer!
+Starting with frontend development, I completed a 3-month internship working with Vue.js. Now, I'm passionately exploring the world of Python and diving into the fascinating realms of Artificial Intelligence and Machine Learning. Every line of code is a step towards my dream of becoming a skilled AI/ML developer!
 
 🚀 Learning Path
-Currently Learning:
+Currently Exploring:
+  - AI/ML fundamentals
+  - Machine Learning Algorithms
   - Python fundamentals
   - Basic programming concepts
   - Exploring coding challenges
@@ -34,7 +36,7 @@ Currently Learning:
   - Network with other developers
 
 💻 Current Projects
-  Project 1: Simple GUI Calculator 
+  Project 1: GUI Calculator 
   Project 2: Coffee Management System using GUI 
   Project 3: MyPortfolio
 
@@ -44,6 +46,7 @@ Note: These are placeholders - I'll update them as I create real projects!
 
 📚 Learning Roadmap
   - Master Python basics
+  - Master machine Learning Algorithms
   - Create personal projects
   - Learn web development
   - Explore data science
